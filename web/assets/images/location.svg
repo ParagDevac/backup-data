@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.779" height="23.798" viewBox="0 0 23.779 23.798">
+  <g id="Group_1043" data-name="Group 1043" transform="translate(-2674.35 -2761.34)">
+    <g id="Ellipse_240" data-name="Ellipse 240" transform="translate(2682 2769.002)" fill="none" stroke="#2e397d" stroke-width="1.3">
+      <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+      <circle cx="4.5" cy="4.5" r="3.85" fill="none"/>
+    </g>
+    <g id="Group_1042" data-name="Group 1042" transform="translate(2675 2762.002)">
+      <g id="Ellipse_239" data-name="Ellipse 239" transform="translate(2 2)" fill="none" stroke="#2e397d" stroke-width="1.3">
+        <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+        <circle cx="9.5" cy="9.5" r="8.85" fill="none"/>
+      </g>
+      <line id="Line_21" data-name="Line 21" x2="1.955" transform="translate(20.524 11.238)" fill="none" stroke="#2e397d" stroke-linecap="round" stroke-width="1.3"/>
+      <line id="Line_24" data-name="Line 24" x2="1.955" transform="matrix(0.017, 1, -1, 0.017, 11.239, 20.521)" fill="none" stroke="#2e397d" stroke-linecap="round" stroke-width="1.3"/>
+      <line id="Line_22" data-name="Line 22" x2="1.955" transform="translate(0 11.238)" fill="none" stroke="#2e397d" stroke-linecap="round" stroke-width="1.3"/>
+      <line id="Line_23" data-name="Line 23" x2="1.955" transform="matrix(0.017, 1, -1, 0.017, 11.239, 0)" fill="none" stroke="#2e397d" stroke-linecap="round" stroke-width="1.3"/>
+    </g>
+  </g>
+</svg>

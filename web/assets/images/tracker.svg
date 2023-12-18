@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#324182"/>
+      <stop offset="1" stop-color="#5988b2"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3519" data-name="Group 3519" transform="translate(-384 -154)">
+    <rect id="Rectangle_773" data-name="Rectangle 773" width="20" height="20" rx="3" transform="translate(384 154)" fill="url(#linear-gradient)"/>
+    <g id="Group_3508" data-name="Group 3508">
+      <g id="Group_1230" data-name="Group 1230" transform="translate(344 106)">
+        <g id="XMLID_42_" transform="translate(45 53)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1">
+          <circle cx="4.845" cy="4.845" r="4.845" stroke="none"/>
+          <circle cx="4.845" cy="4.845" r="4.345" fill="none"/>
+        </g>
+        <line id="XMLID_44_" x1="1.5" y1="1.5" transform="translate(53.5 61.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <path id="Icon_material-location-on" data-name="Icon material-location-on" d="M9,3A1.452,1.452,0,0,0,7.5,4.4C7.5,5.45,9,7,9,7s1.5-1.55,1.5-2.6A1.452,1.452,0,0,0,9,3ZM9,4.9a.5.5,0,1,1,.536-.5A.519.519,0,0,1,9,4.9Z" transform="translate(385 159)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
