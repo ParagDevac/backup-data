@@ -1,0 +1,15 @@
+    ---
+    deployment:
+      tasks:
+        - export DEPLOYPATH=/home/redjinni/public_html/
+        - /bin/chmod 755 ${DEPLOYPATH}
+        - /bin/find ${DEPLOYPATH} -type d -exec /bin/chmod 755 '{}' \;
+        - /bin/find ${DEPLOYPATH} -type f -exec /bin/chmod 644 '{}' \;
+        - /bin/rm -Rf favicon.ico
+        - /bin/rm -Rf index.html
+        - /bin/rm -r js
+        - /bin/rm -r img
+        - /bin/rm -r icons
+        - /bin/rm -r fonts
+        - /bin/rm -r css
+        - /bin/cp -R dist/* $DEPLOYPATH
